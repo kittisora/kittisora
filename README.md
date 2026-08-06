@@ -1,104 +1,239 @@
 <h1 align="center">Kittipong Sorasuchart</h1>
 
 <p align="center">
-  <strong>AI Specialist · DevOps Engineer · Cloud Architect</strong><br>
-  <em>Building intelligence into infrastructure.</em>
+  <strong>AI &amp; Machine Learning Engineer</strong> · <strong>DevOps &amp; Cloud Infrastructure</strong><br>
+  <em>I build AI systems that don't just work in a demo — they work in production, at scale, every single day.</em>
 </p>
 
 <p align="center">
   <a href="https://kittipong.org"><img alt="Website" src="https://img.shields.io/badge/kittipong.org-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://mirimera.com"><img alt="Mirimera" src="https://img.shields.io/badge/Mirimera-1F6FEB?style=for-the-badge"></a>
-  <a href="https://topairepos.com"><img alt="Top AI Repos" src="https://img.shields.io/badge/Top_AI_Repos-6E40C9?style=for-the-badge&logo=openai&logoColor=white"></a>
-  <a href="https://linkedin.com/in/kittisora"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://topairepos.com"><img alt="Top AI Repos" src="https://img.shields.io/badge/Top_AI_Repos-6E40C9?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/kittisora"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
   <a href="https://orcid.org/0009-0005-8451-2349"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
 </p>
 
 ---
 
-I work at the intersection of **AI and infrastructure** — taking models from research and notebooks all the way to production systems that stay up. My background spans machine learning, cloud architecture, and platform engineering, so I tend to own the whole path: data pipelines, inference APIs, deployment, and the monitoring that tells you when it breaks.
+## The gap I work in
 
-> I build AI systems that ship and stay running.
+Here's what I see all the time. A team builds an ML model or an LLM prototype, and it looks great. Then reality hits:
+
+- The model is **slow in production**
+- Deployments are **manual, and they break things**
+- There's **no monitoring** — so nobody knows why accuracy dropped last week
+- **Cloud costs** keep climbing
+
+> The gap between *"we built a model"* and *"we run a production AI system"* is huge. That gap is exactly where I work.
+
+I take an AI idea — or an existing system that's struggling — and turn it into something reliable, fast, and easy for your team to maintain after I'm done.
 
 Based in **Bangkok, Thailand** 🇹🇭
 
 ---
 
-## 🚀 What I'm building
+## What I bring
 
-### [Mirimera](https://mirimera.com) — Founder & CEO
-A product engineering company in Bangkok building custom web apps, mobile products, and AI-powered platforms for startups and growing companies.
+**🤖 AI & LLM engineering** — RAG pipelines, fine-tuning, prompt engineering, and AI agents on OpenAI, Anthropic, and the open-source ecosystem. A chatbot that actually understands your company's documents; an agent that automates a real workflow. I've built those.
 
-**Small team. Senior engineers. Fast delivery.** Every project is led by senior engineers who own the outcome — not junior developers following a script. We ship across fintech, healthcare, e-commerce, SaaS, logistics, and education.
+**👁 Computer vision** — object detection, image classification, segmentation, OCR, and video analytics.
 
-### [Top AI Repos](https://topairepos.com) — Creator
-Discover, compare, and track open-source AI repositories — ranked by activity, growth, quality, and production readiness.
+**⚡ Deployment & serving** — I don't stop at training. Low-latency inference APIs, GPU optimization, and edge deployment when you need it.
 
-Star counts are a popularity contest, not a signal. So Top AI Repos scores repos on two axes instead: **momentum** (is it actually being developed?) and **adoption risk** (can you safely build on it?). Roughly **25,000 repositories** across **33 categories**, graded A–D, updated daily, with a public JSON API.
+**🔁 MLOps** — end-to-end pipelines covering ingestion, training, versioning, deployment, and monitoring. When your data changes, your model retrains and redeploys automatically. No manual firefighting.
+
+**🏗 DevOps & cloud** — years as a Senior DevOps Engineer: CI/CD, Kubernetes, Infrastructure as Code, and observability that actually tells you something.
+
+**📡 AIOps** — using AI to make operations smarter: anomaly detection, automated incident response, and intelligent alerting that cuts through the noise.
+
+**💻 Full-stack product** — the backends and frontends these systems live inside. Payment flows, marketplaces, dashboards, SaaS platforms.
 
 ---
 
 ## 🧰 Tech I work with
 
-**AI / ML**
+### AI & LLMs
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3D5AFE?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-0B7285?style=flat-square)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-0B7285?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0B7285?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0B7285?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-0B7285?style=flat-square)
 
-**Cloud & Infrastructure**
+**Vector stores** ·
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-09B5A5?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+### Computer vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00B8D4?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-5C3EE8?style=flat-square)
+![Segmentation](https://img.shields.io/badge/Segmentation-5C3EE8?style=flat-square)
+![Object Detection](https://img.shields.io/badge/Object_Detection-5C3EE8?style=flat-square)
+![Video Analytics](https://img.shields.io/badge/Video_Analytics-5C3EE8?style=flat-square)
+![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+
+### MLOps & model serving
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-345CB0?style=flat-square)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
+![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square)
+![Triton](https://img.shields.io/badge/Triton_Inference-76B900?style=flat-square)
+![Feature Store](https://img.shields.io/badge/Feature_Store-6E40C9?style=flat-square)
+![Model Registry](https://img.shields.io/badge/Model_Registry-6E40C9?style=flat-square)
+![Drift Detection](https://img.shields.io/badge/Drift_Detection-6E40C9?style=flat-square)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![FinOps](https://img.shields.io/badge/Cost_Optimization-2E7D32?style=flat-square)
 
-**Product & Observability**
+### Observability & AIOps
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=black)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-B71C1C?style=flat-square)
+![Incident Automation](https://img.shields.io/badge/Incident_Automation-B71C1C?style=flat-square)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-2496ED?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Swagger](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white)
+
+### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
+![Programmatic SEO](https://img.shields.io/badge/Programmatic_SEO-4CAF50?style=flat-square)
+
+### Data engineering
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Web3
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethers&logoColor=white)
+![web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square)
 
 ---
 
 ## 📦 Selected work
 
-| Project | What it is |
-| --- | --- |
-| **[Top AI Repos](https://topairepos.com)** | Ranking and risk-scoring engine for ~25k open-source AI repos |
-| **Cloud Monitoring Dashboard** | Self-hosted observability stack — Prometheus, Grafana, Node Exporter |
-| **Site Auditor** | AI-powered website audit platform |
-| **Arrow Markets** | DeFi options trading interface |
-| **Unique Leverage** | Automation platform for automotive dealers |
-| **OGEdge** | Marketplace for gaming services |
-| **Big Rentals** | Equipment rental marketplace |
-
-More detail and case studies at **[kittipong.org](https://kittipong.org)**.
+| Project | What it is | My role |
+| --- | --- | --- |
+| **[Site Auditor](https://kittipong.org/work/site-auditor)** · [live ↗](https://www.reviewmysite.app/) | Crawls a site through a headless browser and scores every page across six dimensions — SEO, performance, security, UX, AI visibility, brand health — then uses LLMs to turn findings into prioritized, plain-English fixes. | AI Specialist / Full-Stack |
+| **[Unique Leverage](https://kittipong.org/work/unique-leverage)** · [live ↗](https://uniqueleverage.com) | Posts dealer vehicle inventory to Facebook Marketplace automatically, generates AI ad campaigns per vehicle, and attributes leads down to the VIN via Meta CAPI + Pixel. | AI Specialist / Full-Stack |
+| **[Arrow Markets](https://kittipong.org/work/arrow-market)** · [live ↗](https://arrow.markets/) | Hybrid web3 options trading with on-chain settlement on Avalanche — Lite mode for beginners, Pro mode with full options chain, greeks, and live market-maker quotes. | Frontend / Web3 |
+| **[BigRentals](https://kittipong.org/work/big-rentals)** · [live ↗](http://bigrentals.com/) | Trailer and equipment rental marketplace with location-aware search and programmatically generated landing pages for thousands of city-equipment long-tail queries. | Full-Stack |
+| **[OGEdge](https://kittipong.org/work/ogedge)** · [live ↗](https://ogedge.netlify.app/) | Gaming services marketplace — dozens of game catalogs with per-game pricing logic, live-pricing service configurators, and multi-currency Stripe checkout. | Full-Stack |
+| **[Top AI Repos](https://topairepos.com)** · [code ↗](https://github.com/kittisora/top-ai-repos) | Ranks ~25k open-source AI repos on momentum and adoption risk instead of star count. 33 categories, A–D grades, daily sync, public JSON API. | Creator |
+| **Cloud Monitoring Dashboard** | Self-hosted observability stack — Prometheus, Grafana, Node Exporter. | DevOps |
 
 ---
 
-## 🌱 Open source
+## 🚀 Mirimera — Founder & CEO
 
-**[top-ai-repos](https://github.com/kittisora/top-ai-repos)** — the engine behind [topairepos.com](https://topairepos.com). TypeScript, GitHub REST + GraphQL, daily sync.
+[**mirimera.com**](https://mirimera.com) — a product engineering company in Bangkok building custom web apps, mobile products, and AI-powered platforms for startups and growing companies.
 
-[![Stars](https://img.shields.io/github/stars/kittisora/top-ai-repos?style=flat-square&logo=github)](https://github.com/kittisora/top-ai-repos/stargazers)
-[![Forks](https://img.shields.io/github/forks/kittisora/top-ai-repos?style=flat-square&logo=github)](https://github.com/kittisora/top-ai-repos/network/members)
-[![Last commit](https://img.shields.io/github/last-commit/kittisora/top-ai-repos?style=flat-square&logo=github)](https://github.com/kittisora/top-ai-repos/commits)
+**Small team. Senior engineers. Fast delivery.** Every project is led by senior engineers who own the outcome — not junior developers following a script. We ship across fintech, healthcare, e-commerce, SaaS, logistics, and education.
 
-**[portfolio](https://github.com/kittisora/portfolio)** — source for [kittipong.org](https://kittipong.org).
+---
 
-[![Stars](https://img.shields.io/github/stars/kittisora/portfolio?style=flat-square&logo=github)](https://github.com/kittisora/portfolio/stargazers)
+## 🧭 How I work
+
+1. **Understand your setup first** — no assumptions, no copy-paste solutions.
+2. **Find the real bottleneck** — often it's not what you think it is.
+3. **Propose a clean, practical plan** — clear communication, honest timelines.
+4. **Implement it so your team can maintain it** after I'm done.
+
+As simple as possible — but no simpler.
 
 ---
 
 ## 🤝 Let's talk
 
-Open to interesting problems in AI infrastructure, MLOps, and product engineering — and Mirimera takes on client work.
+If your team is dealing with slow deployments, an AI prototype that won't scale, unreliable infrastructure, or rising cloud costs — send me a message with your current challenge.
+
+Even in the first conversation, I'll give you a clear idea of the best next step. No obligation, no jargon.
 
 <p align="center">
   <a href="https://kittipong.org">Website</a> ·
