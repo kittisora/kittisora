@@ -178,7 +178,7 @@ AI & LLM Engineering · Computer Vision · Model Deployment & Serving · MLOps �
 
 ## Selected work
 
-| Project | What it is | My role | |
+| Project | What it is | My role | Live |
 | --- | --- | --- | --- |
 | **[Top AI Repos](https://github.com/kittisora/top-ai-repos)** | Ranks ~25k open-source AI repos on momentum and adoption risk instead of star count. 33 categories, A–D grades, daily sync, public JSON API. | Creator | [→](https://topairepos.com) |
 | **[OGEdge](https://kittipong.org/work/ogedge)** | Gaming services marketplace — dozens of game catalogs with per-game pricing logic, live-pricing service configurators, and multi-currency Stripe checkout. | Full-Stack | [→](https://ogedge.netlify.app/) |
