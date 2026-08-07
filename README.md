@@ -1,8 +1,8 @@
 <h1 align="center">Kittipong Sorasuchart</h1>
 
 <p align="center">
-  <strong>AI &amp; Machine Learning Engineer</strong> · <strong>DevOps &amp; Cloud Infrastructure</strong><br>
-  <em>I build AI systems that don't just work in a demo — they work in production, at scale, every single day.</em>
+  <strong>AI Specialist · DevOps Engineer · Cloud Architect</strong><br>
+  <em>Building intelligence into infrastructure.</em>
 </p>
 
 <p align="center">
@@ -15,42 +15,21 @@
 
 ---
 
-## The gap I work in
+I work at the intersection of **AI and infrastructure** — taking models from research and notebooks all the way to production systems that stay up. My background spans machine learning, cloud architecture, and platform engineering, so I tend to own the whole path: data pipelines, inference APIs, deployment, and the monitoring that tells you when it breaks.
 
-Here's what I see all the time. A team builds an ML model or an LLM prototype, and it looks great. Then reality hits:
+> I build AI systems that ship and stay running.
 
-- The model is **slow in production**
-- Deployments are **manual, and they break things**
-- There's **no monitoring** — so nobody knows why accuracy dropped last week
-- **Cloud costs** keep climbing
-
-> The gap between *"we built a model"* and *"we run a production AI system"* is huge. That gap is exactly where I work.
-
-I take an AI idea — or an existing system that's struggling — and turn it into something reliable, fast, and easy for your team to maintain after I'm done.
-
-Based in **Bangkok, Thailand** 🇹🇭
+Based in **Bangkok, Thailand**
 
 ---
 
 ## What I bring
 
-**🤖 AI & LLM engineering** — RAG pipelines, fine-tuning, prompt engineering, and AI agents on OpenAI, Anthropic, and the open-source ecosystem. A chatbot that actually understands your company's documents; an agent that automates a real workflow. I've built those.
-
-**👁 Computer vision** — object detection, image classification, segmentation, OCR, and video analytics.
-
-**⚡ Deployment & serving** — I don't stop at training. Low-latency inference APIs, GPU optimization, and edge deployment when you need it.
-
-**🔁 MLOps** — end-to-end pipelines covering ingestion, training, versioning, deployment, and monitoring. When your data changes, your model retrains and redeploys automatically. No manual firefighting.
-
-**🏗 DevOps & cloud** — years as a Senior DevOps Engineer: CI/CD, Kubernetes, Infrastructure as Code, and observability that actually tells you something.
-
-**📡 AIOps** — using AI to make operations smarter: anomaly detection, automated incident response, and intelligent alerting that cuts through the noise.
-
-**💻 Full-stack product** — the backends and frontends these systems live inside. Payment flows, marketplaces, dashboards, SaaS platforms.
+AI & LLM Engineering · Computer Vision · Model Deployment & Serving · MLOps · DevOps & Cloud Infrastructure · AIOps · Full-Stack Product Engineering
 
 ---
 
-## 🧰 Tech I work with
+## Tech I work with
 
 ### AI & LLMs
 
@@ -86,7 +65,7 @@ Based in **Bangkok, Thailand** 🇹🇭
 ![Segmentation](https://img.shields.io/badge/Segmentation-5C3EE8?style=flat-square)
 ![Object Detection](https://img.shields.io/badge/Object_Detection-5C3EE8?style=flat-square)
 ![Video Analytics](https://img.shields.io/badge/Video_Analytics-5C3EE8?style=flat-square)
-![NVIDIA CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 
 ### MLOps & model serving
@@ -124,13 +103,14 @@ Based in **Bangkok, Thailand** 🇹🇭
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![FinOps](https://img.shields.io/badge/Cost_Optimization-2E7D32?style=flat-square)
+![Cost Optimization](https://img.shields.io/badge/Cost_Optimization-2E7D32?style=flat-square)
 
 ### Observability & AIOps
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square)
+![Node Exporter](https://img.shields.io/badge/Node_Exporter-E6522C?style=flat-square)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
@@ -155,13 +135,13 @@ Based in **Bangkok, Thailand** 🇹🇭
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 ![gRPC](https://img.shields.io/badge/gRPC-2496ED?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
-![Swagger](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=swagger&logoColor=white)
 
 ### Frontend
 
@@ -176,41 +156,40 @@ Based in **Bangkok, Thailand** 🇹🇭
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)
 ![Programmatic SEO](https://img.shields.io/badge/Programmatic_SEO-4CAF50?style=flat-square)
 
-### Data engineering
+### Blockchain & Web3
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-### Web3
-
+![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-2775CA?style=flat-square)
+![SPL Token](https://img.shields.io/badge/SPL_Token-9945FF?style=flat-square)
+![Metaplex](https://img.shields.io/badge/Metaplex-E42575?style=flat-square)
+![Phantom](https://img.shields.io/badge/Phantom-AB9FF2?style=flat-square)
+![Solana Web3.js](https://img.shields.io/badge/solana%2Fweb3.js-9945FF?style=flat-square)
+![Jupiter](https://img.shields.io/badge/Jupiter_Aggregator-C7F284?style=flat-square)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethers&logoColor=white)
 ![web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 ![Avalanche](https://img.shields.io/badge/Avalanche-E84142?style=flat-square)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=flat-square&logo=walletconnect&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-6E40C9?style=flat-square)
 
 ---
 
-## 📦 Selected work
+## Selected work
 
-| Project | What it is | My role |
-| --- | --- | --- |
-| **[Site Auditor](https://kittipong.org/work/site-auditor)** · [live ↗](https://www.reviewmysite.app/) | Crawls a site through a headless browser and scores every page across six dimensions — SEO, performance, security, UX, AI visibility, brand health — then uses LLMs to turn findings into prioritized, plain-English fixes. | AI Specialist / Full-Stack |
-| **[Unique Leverage](https://kittipong.org/work/unique-leverage)** · [live ↗](https://uniqueleverage.com) | Posts dealer vehicle inventory to Facebook Marketplace automatically, generates AI ad campaigns per vehicle, and attributes leads down to the VIN via Meta CAPI + Pixel. | AI Specialist / Full-Stack |
-| **[Arrow Markets](https://kittipong.org/work/arrow-market)** · [live ↗](https://arrow.markets/) | Hybrid web3 options trading with on-chain settlement on Avalanche — Lite mode for beginners, Pro mode with full options chain, greeks, and live market-maker quotes. | Frontend / Web3 |
-| **[BigRentals](https://kittipong.org/work/big-rentals)** · [live ↗](http://bigrentals.com/) | Trailer and equipment rental marketplace with location-aware search and programmatically generated landing pages for thousands of city-equipment long-tail queries. | Full-Stack |
-| **[OGEdge](https://kittipong.org/work/ogedge)** · [live ↗](https://ogedge.netlify.app/) | Gaming services marketplace — dozens of game catalogs with per-game pricing logic, live-pricing service configurators, and multi-currency Stripe checkout. | Full-Stack |
-| **[Top AI Repos](https://topairepos.com)** · [code ↗](https://github.com/kittisora/top-ai-repos) | Ranks ~25k open-source AI repos on momentum and adoption risk instead of star count. 33 categories, A–D grades, daily sync, public JSON API. | Creator |
-| **Cloud Monitoring Dashboard** | Self-hosted observability stack — Prometheus, Grafana, Node Exporter. | DevOps |
+| Project | What it is | My role | |
+| --- | --- | --- | --- |
+| **[Top AI Repos](https://github.com/kittisora/top-ai-repos)** | Ranks ~25k open-source AI repos on momentum and adoption risk instead of star count. 33 categories, A–D grades, daily sync, public JSON API. | Creator | [→](https://topairepos.com) |
+| **[OGEdge](https://kittipong.org/work/ogedge)** | Gaming services marketplace — dozens of game catalogs with per-game pricing logic, live-pricing service configurators, and multi-currency Stripe checkout. | Full-Stack | [→](https://ogedge.netlify.app/) |
+| **[BigRentals](https://kittipong.org/work/big-rentals)** | Trailer and equipment rental marketplace with location-aware search and programmatically generated landing pages for thousands of city-equipment long-tail queries. | Full-Stack | [→](http://bigrentals.com/) |
+| **[Unique Leverage](https://kittipong.org/work/unique-leverage)** | Posts dealer vehicle inventory to Facebook Marketplace automatically, generates AI ad campaigns per vehicle, and attributes leads down to the VIN via Meta CAPI + Pixel. | AI Specialist / Full-Stack | [→](https://uniqueleverage.com) |
+| **[Cloud Monitoring Dashboard](https://kittipong.org/work/server-monitor)** | Centralized observability across AWS, GCP, and Hetzner — Node Exporter agents into Prometheus, visualized in Grafana with automated alerting. | DevOps | |
+| **[Arrow Markets](https://kittipong.org/work/arrow-market)** | Hybrid web3 options trading with on-chain settlement on Avalanche — Lite mode for beginners, Pro mode with full options chain, greeks, and live market-maker quotes. | Frontend / Web3 | [→](https://arrow.markets/) |
 
 ---
 
-## 🚀 Mirimera — Founder & CEO
+## Mirimera — Founder & CEO
 
 [**mirimera.com**](https://mirimera.com) — a product engineering company in Bangkok building custom web apps, mobile products, and AI-powered platforms for startups and growing companies.
 
@@ -218,22 +197,12 @@ Based in **Bangkok, Thailand** 🇹🇭
 
 ---
 
-## 🧭 How I work
+## Let's talk
 
-1. **Understand your setup first** — no assumptions, no copy-paste solutions.
-2. **Find the real bottleneck** — often it's not what you think it is.
-3. **Propose a clean, practical plan** — clear communication, honest timelines.
-4. **Implement it so your team can maintain it** after I'm done.
+Open to interesting problems in AI infrastructure, MLOps, and product engineering — and Mirimera takes on client work.
 
-As simple as possible — but no simpler.
-
----
-
-## 🤝 Let's talk
-
-If your team is dealing with slow deployments, an AI prototype that won't scale, unreliable infrastructure, or rising cloud costs — send me a message with your current challenge.
-
-Even in the first conversation, I'll give you a clear idea of the best next step. No obligation, no jargon.
+- **Email** — [kittisoras@gmail.com](mailto:kittisoras@gmail.com) · [contact@mirimera.com](mailto:contact@mirimera.com)
+- **Book a call** — [30 minutes, no obligation](https://calendly.com/contact-mirimera/30min)
 
 <p align="center">
   <a href="https://kittipong.org">Website</a> ·
