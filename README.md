@@ -1,4 +1,4 @@
-<h1 align="center">Kittipong Sorasuchart</h1>
+<h1 align="center">Kittipong S.</h1>
 
 <p align="center">
   <strong>AI Specialist · DevOps Engineer · Cloud Architect</strong><br>
@@ -9,7 +9,7 @@
   <a href="https://kittipong.org"><img alt="Website" src="https://img.shields.io/badge/kittipong.org-0B0B0B?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://mirimera.com"><img alt="Mirimera" src="https://img.shields.io/badge/Mirimera-1F6FEB?style=for-the-badge"></a>
   <a href="https://topairepos.com"><img alt="Top AI Repos" src="https://img.shields.io/badge/Top_AI_Repos-6E40C9?style=for-the-badge"></a>
-  <a href="https://linkedin.com/in/kittisora"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/ksaetia"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
   <a href="https://orcid.org/0009-0005-8451-2349"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
 </p>
 
@@ -207,7 +207,7 @@ Open to interesting problems in AI infrastructure, MLOps, and product engineerin
 <p align="center">
   <a href="https://kittipong.org">Website</a> ·
   <a href="https://mirimera.com">Mirimera</a> ·
-  <a href="https://linkedin.com/in/kittisora">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/ksaetia">LinkedIn</a> ·
   <a href="https://contra.com/kittipong">Contra</a> ·
   <a href="https://facebook.com/kittisoras">Facebook</a> ·
   <a href="https://orcid.org/0009-0005-8451-2349">ORCID</a>
